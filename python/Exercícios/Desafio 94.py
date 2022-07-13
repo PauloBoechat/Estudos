@@ -24,7 +24,7 @@ while True:
     print('-'*30)
 
     esc = str(input('Deseja continuar? (S/N): '))
-    if esc == 'S': 
+    if esc == 'S':
         print('-'*30)
         continue
     else: break
