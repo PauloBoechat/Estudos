@@ -1,11 +1,7 @@
+def Bprint(TXT):
+    print('-'*30)
+    print('\033[1m',TXT,'\033[0m')
+    print('-' * 30)
 
-
-def escreva(val):
-    val = str(val)
-    print('-'*(len(val)+2))
-    print(' '+val)
-    print('-'*(len(val)+2))
-
-Titulo = str(input("Digite o'que estará escrito no Título: "))
-
-escreva(Titulo)
+txt = str(input('Digite o que será printado: ')).upper()
+Bprint(txt)
