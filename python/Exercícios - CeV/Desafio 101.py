@@ -1,6 +1,10 @@
 
 
 def voto(nasc=2000):
+    """
+    :param nasc: ano de nascimento
+    :return: Função eleitoral
+    """
     from datetime import date
     idade = date.today().year - nasc
     if idade < 18 and idade >= 16:
@@ -15,3 +19,5 @@ print('-=' * 30)
 nasc = int(input('Digite seu ano de nascimento: '))
 
 print(voto(nasc))
+
+help(voto)

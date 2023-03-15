@@ -1,16 +1,16 @@
-def fatorial(n,opl=True):
-    fat = 1
+def fatorial(n, show=False):
+    """
+    -> Calcula o fatorial de um número n.
+    :param n: O número a ser calculado.
+    :param show: Mostrar ou não a conta.
+    :return: O fatorial de n."""
+    f = 1
     for c in range(n, 0, -1):
-        fat *= c
-        if opl == True:
-            print(c, end=' x ')
-    if opl == True:
-        print(f'= {fat}')
-    print(f'O fatorial de {n} é {fat}')
+        f *= c
+        if show:
+            print(c,end='')
+            if c>1: print(' x ', end='')
+            else: print(' = ', end='')
+    return f
 
-n = int(input('Digite o valor que será fatorado: '))
-opl = input('Deseja ver o processo(S/N): ').upper()
-if opl == 'S': opl = True
-else: opl = False
-
-fatorial(n,opl)
+print(fatorial(5, True))

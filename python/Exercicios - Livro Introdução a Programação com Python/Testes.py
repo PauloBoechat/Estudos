@@ -1,3 +1,1 @@
-len('A')
-len('')
-len('O rato roeu a roupa do rei de roma')
+print('\033[0;31mErro\033[m')
