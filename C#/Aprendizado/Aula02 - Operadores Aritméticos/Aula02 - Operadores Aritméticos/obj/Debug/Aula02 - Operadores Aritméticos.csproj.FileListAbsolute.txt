@@ -1,0 +1,7 @@
+C:\Users\anapa\source\repos\Aula02 - Operadores Aritméticos\Aula02 - Operadores Aritméticos\bin\Debug\Aula02 - Operadores Aritméticos.exe.config
+C:\Users\anapa\source\repos\Aula02 - Operadores Aritméticos\Aula02 - Operadores Aritméticos\bin\Debug\Aula02 - Operadores Aritméticos.exe
+C:\Users\anapa\source\repos\Aula02 - Operadores Aritméticos\Aula02 - Operadores Aritméticos\bin\Debug\Aula02 - Operadores Aritméticos.pdb
+C:\Users\anapa\source\repos\Aula02 - Operadores Aritméticos\Aula02 - Operadores Aritméticos\obj\Debug\Aula02 - Operadores Aritméticos.csproj.AssemblyReference.cache
+C:\Users\anapa\source\repos\Aula02 - Operadores Aritméticos\Aula02 - Operadores Aritméticos\obj\Debug\Aula02 - Operadores Aritméticos.csproj.CoreCompileInputs.cache
+C:\Users\anapa\source\repos\Aula02 - Operadores Aritméticos\Aula02 - Operadores Aritméticos\obj\Debug\Aula02 - Operadores Aritméticos.exe
+C:\Users\anapa\source\repos\Aula02 - Operadores Aritméticos\Aula02 - Operadores Aritméticos\obj\Debug\Aula02 - Operadores Aritméticos.pdb
