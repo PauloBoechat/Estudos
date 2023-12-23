@@ -1,7 +1,0 @@
-C:\Users\anapa\source\repos\Exercício-1\Execício - Calculo da área de um triangulo\bin\Debug\Execício - Calculo da área de um triangulo.exe.config
-C:\Users\anapa\source\repos\Exercício-1\Execício - Calculo da área de um triangulo\bin\Debug\Execício - Calculo da área de um triangulo.exe
-C:\Users\anapa\source\repos\Exercício-1\Execício - Calculo da área de um triangulo\bin\Debug\Execício - Calculo da área de um triangulo.pdb
-C:\Users\anapa\source\repos\Exercício-1\Execício - Calculo da área de um triangulo\obj\Debug\Execício - Calculo da área de um triangulo.csproj.AssemblyReference.cache
-C:\Users\anapa\source\repos\Exercício-1\Execício - Calculo da área de um triangulo\obj\Debug\Execício - Calculo da área de um triangulo.csproj.CoreCompileInputs.cache
-C:\Users\anapa\source\repos\Exercício-1\Execício - Calculo da área de um triangulo\obj\Debug\Execício - Calculo da área de um triangulo.exe
-C:\Users\anapa\source\repos\Exercício-1\Execício - Calculo da área de um triangulo\obj\Debug\Execício - Calculo da área de um triangulo.pdb

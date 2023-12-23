@@ -1,7 +1,0 @@
-C:\Users\anapa\source\repos\Aula-9\Entrada de Dados\bin\Debug\Entrada de Dados.exe.config
-C:\Users\anapa\source\repos\Aula-9\Entrada de Dados\bin\Debug\Entrada de Dados.exe
-C:\Users\anapa\source\repos\Aula-9\Entrada de Dados\bin\Debug\Entrada de Dados.pdb
-C:\Users\anapa\source\repos\Aula-9\Entrada de Dados\obj\Debug\Entrada de Dados.csproj.AssemblyReference.cache
-C:\Users\anapa\source\repos\Aula-9\Entrada de Dados\obj\Debug\Entrada de Dados.csproj.CoreCompileInputs.cache
-C:\Users\anapa\source\repos\Aula-9\Entrada de Dados\obj\Debug\Entrada de Dados.exe
-C:\Users\anapa\source\repos\Aula-9\Entrada de Dados\obj\Debug\Entrada de Dados.pdb
