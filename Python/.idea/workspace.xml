@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378f4619-74ef-4a17-b1e9-93105ac2c801" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Livro Introdução à programação com Python/Capítulo 9 - Arquivos/Programa 9.1 - Abrindo, Lendo e Fechando um Arquivo/Programa 9.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Livro Introdução à programação com Python/Capítulo 9 - Arquivos/Programa 9.1 - Parâmetros da linha de comando/Programa 9.1.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Livro Introdução à programação com Python/Capítulo 9 - Arquivos/Programa 9.2 - Uso do with/Números.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Livro Introdução à programação com Python/Capítulo 9 - Arquivos/Programa 9.2 - Uso do with/Programa 9.2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="378f4619-74ef-4a17-b1e9-93105ac2c801" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
