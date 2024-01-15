@@ -23,6 +23,18 @@ namespace CalculadoraSimples.Models
         {
             Console.WriteLine($"{x} / {y} = {x / y}");
         }
+        public void Potencia(int x, int y)
+        {
+            Console.WriteLine($"{x} ^ {y} = {Math.Pow(x, y)}");
+        }
+        public void RaizQuadrada(int x)
+        {
+            Console.WriteLine($"√{x} = {Math.Sqrt(x)}");
+        }
+        public void RestoDivisao(int x, int y)
+        {
+            Console.WriteLine($"{x} % {y} = {x % y}");
+        }
         
     }
 }

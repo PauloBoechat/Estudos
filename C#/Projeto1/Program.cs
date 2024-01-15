@@ -1,17 +1,24 @@
 ﻿using System.ComponentModel;
 using Projeto1.Models;
+using System;
 
-int numero = 5;
-int controle = 0;
+List<string> listaString = new List<string>();
 
-while (true)// pode fazer while (controle < 10)
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+
+Console.WriteLine("Percorrendo com FOR");
+for (int contador = 0; contador < listaString.Count; contador++)
 {
-    Console.WriteLine($"{numero} x {controle} = {numero * controle}");
-    controle++;
-    if (controle > 10)
-    {
-        break;
-    }
+    Console.WriteLine($"Posição N{contador} - {listaString[contador]}");
+}
+
+Console.WriteLine("Percorrendo com FOREACH");
+int contadorForeach = 0;
+foreach (string item in listaString)
+{
+    Console.WriteLine($"Posição N{contadorForeach} - {item}");
 }
 
 
@@ -20,6 +27,33 @@ while (true)// pode fazer while (controle < 10)
 
 
 
+
+
+
+//Console.WriteLine();
+
+//Console.WriteLine("Percorrendo Array com o FOREACH");
+//int contadorForeach = 0;
+//foreach (int valor in arrayInteiros)
+//{
+//    Console.WriteLine($"Posição N{contadorForeach} - {valor}"); 
+//}
+
+
+
+
+//int numero = 5;
+//int controle = 0;
+
+//while (true)// pode fazer while (controle < 10)
+//{
+//    Console.WriteLine($"{numero} x {controle} = {numero * controle}");
+//    controle++;
+//    if (controle > 10)
+//    {
+//        break;
+//    }
+//}
 
 
 

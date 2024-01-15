@@ -2,12 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\C#",
-    "\\C#\\Projeto1",
-    "\\C#\\Projeto1\\bin",
-    "\\C#\\Projeto1\\bin\\Debug",
-    "\\C#\\Projeto1\\bin\\Release",
-    "\\C#\\Projeto1\\Models"
+    "\\C#\\CalculadoraSimples",
+    "\\C#\\CalculadoraSimples\\Models"
   ],
-  "SelectedNode": "\\C#\\Projeto1\\Program.cs",
+  "SelectedNode": "\\C#\\CalculadoraSimples",
   "PreviewInSolutionExplorer": false
 }

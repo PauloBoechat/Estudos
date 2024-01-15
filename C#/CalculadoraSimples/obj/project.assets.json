@@ -8,24 +8,32 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\anapa\\.nuget\\packages\\": {}
+    "C:\\Users\\anapa\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anapa\\Documents\\GitHub\\Estudos\\c#\\CalculadoraSimples\\CalculadoraSimples.csproj",
+      "projectUniqueName": "C:\\Users\\anapa\\Documents\\GitHub\\Estudos\\C#\\CalculadoraSimples\\CalculadoraSimples.csproj",
       "projectName": "CalculadoraSimples",
-      "projectPath": "C:\\Users\\anapa\\Documents\\GitHub\\Estudos\\c#\\CalculadoraSimples\\CalculadoraSimples.csproj",
+      "projectPath": "C:\\Users\\anapa\\Documents\\GitHub\\Estudos\\C#\\CalculadoraSimples\\CalculadoraSimples.csproj",
       "packagesPath": "C:\\Users\\anapa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anapa\\Documents\\GitHub\\Estudos\\c#\\CalculadoraSimples\\obj\\",
+      "outputPath": "C:\\Users\\anapa\\Documents\\GitHub\\Estudos\\C#\\CalculadoraSimples\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\anapa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\anapa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
